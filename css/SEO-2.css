@@ -1947,7 +1947,7 @@ h2 {
 }
 
 /* Botón con estilo moderno */
-.cta-button {
+.cta-buttonConsulteria {
     background: whitesmoke;
     padding: 15px 30px;
     color: #666;
@@ -1960,7 +1960,7 @@ h2 {
     transition: all 0.3s ease-in-out;
 }
 
-.cta-button:hover {
+.cta-buttonConsulteria:hover {
     background: whitesmoke;
     color: #1544a9;
     transform: scale(1.05);
